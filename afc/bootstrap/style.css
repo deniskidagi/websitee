@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    
+}
+ul{
+    display: flex;
+}
+li{
+    padding:10px;
+    list-style-type: none;
+    color: #fff;
+    
+} 
+h1{
+    text-align: center;
+    background-color: blueviolet;
+
+
+}
